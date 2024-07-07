@@ -3,11 +3,11 @@ import * as fs from 'node:fs/promises';
 
 export const getAllContacts = async () => {
   try {
-    const data = await fs.readFile(PATH_DB, 'utf-8');
-    const contacts = JSON.parse(data);
-    return contacts;
+    const fileData = await fs.readFile(PATH_DB, 'utf-8');
+    const existingContacts = JSON.parse(fileData);
+    return existingContacts;
   } catch (error) {
-    console.log(error);
+    console.error(error);
   }
 };
 

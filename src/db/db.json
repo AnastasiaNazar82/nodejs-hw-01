@@ -1,1 +1,37 @@
-[]
+[
+  {
+    "id": "8838a1fc-aeb8-4549-83d5-dc61d39aa04d",
+    "name": "Myra Feest",
+    "phone": "(293) 376-3912 x46584",
+    "email": "Freida9@yahoo.com",
+    "job": "Customer Interactions Liaison"
+  },
+  {
+    "id": "5c2d9bf4-aa77-4dc3-95dc-bd7f21d8c5f2",
+    "name": "Amanda Kuphal",
+    "phone": "1-231-842-4618 x544",
+    "email": "Michale48@yahoo.com",
+    "job": "International Integration Planner"
+  },
+  {
+    "id": "53c923f2-cab4-40d8-96af-0c04f9646472",
+    "name": "Cody D'Amore PhD",
+    "phone": "(591) 791-7390 x2476",
+    "email": "Deonte_Roberts0@hotmail.com",
+    "job": "Customer Program Manager"
+  },
+  {
+    "id": "c85772b0-d3bd-4845-a5c9-b87033e81d41",
+    "name": "Guy Quigley",
+    "phone": "355.549.5167",
+    "email": "Cali_Stroman@gmail.com",
+    "job": "Internal Applications Assistant"
+  },
+  {
+    "id": "76c65641-2461-41df-9ae4-cebd07f650a8",
+    "name": "Elmer Mante",
+    "phone": "593-204-7800",
+    "email": "Marcellus.Stehr@gmail.com",
+    "job": "Investor Communications Engineer"
+  }
+]
